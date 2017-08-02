@@ -1,0 +1,4 @@
+1. Delete matching files in all subdirectories:
+ --https://superuser.com/questions/112078/delete-matching-files-in-all-subdirectories
+
+ find . -name \*.swp -type f -delete
